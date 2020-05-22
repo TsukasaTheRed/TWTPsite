@@ -1,0 +1,52 @@
+TWTP
+Tech Workforce Training Program
+
+Drop downs:
+
+Home:
+-About Us
+-Mission Statement
+-Our Team
+
+Programs:
+-Online Program
+-Prof Dev Program
+-Personal Dev Program
+-Internship Program
+
+Services & Supports:
+-Personal Mentorship
+-Online Mentorship
+-Group Study Sessions
+-Additional Support
+
+Employer Page:
+-About Us
+-Online Program
+-Prof Dev Program
+-Personal Dev Program
+
+Partners(Corp Mem):
+-Our Partners
+-Internship Opp
+-Join Us
+
+Group 1 (Job Opportunities in WNY):
+
+(Bullet List):
+-Software Engineer
+-Full-stack developer
+-Front-end developer
+-Back-end developer
+-Web developer
+-Database engineer
+
+Group 2 (Corporate Partners):
+
+(regular list):
+-EmergenceTek Group ETG 
+-Independent Health
+-Curbell
+-Roswell Park
+-Ink Labs
+-Staff Buffalo
