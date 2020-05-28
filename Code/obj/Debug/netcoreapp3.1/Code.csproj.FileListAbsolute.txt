@@ -35,3 +35,4 @@ C:\Users\Tsuka\Desktop\WozU\projects\TWTPsite\TWTPsite\Code\obj\Debug\netcoreapp
 C:\Users\Tsuka\Desktop\WozU\projects\TWTPsite\TWTPsite\Code\obj\Debug\netcoreapp3.1\Code.pdb
 C:\Users\Tsuka\Desktop\WozU\projects\TWTPsite\TWTPsite\Code\obj\Debug\netcoreapp3.1\Code.genruntimeconfig.cache
 C:\Users\Tsuka\Desktop\WozU\projects\TWTPsite\TWTPsite\Code\obj\Debug\netcoreapp3.1\Code.csproj.CopyComplete
+C:\Users\Tsuka\Desktop\WozU\projects\TWTPsite\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
