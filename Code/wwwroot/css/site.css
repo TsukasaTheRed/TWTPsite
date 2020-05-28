@@ -73,8 +73,12 @@ body {
 
 /* Adding Our Own Styling Here?
 ------------------------------------- */
+.front-job-op {
+  color: blue;
+  /* needs alignment to bottom left of page */
+}
 
-.corp-part {
-  margin-bottom: 20px;
-  margin-right: 20px;
+.front-corp-part {
+  color: red;
+  /* needs alignment to bottom right of page */
 }
