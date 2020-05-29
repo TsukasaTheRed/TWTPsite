@@ -73,12 +73,17 @@ body {
 
 /* Adding Our Own Styling Here?
 ------------------------------------- */
+.front-page-info {
+  display: flex;
+  /* needs alignment to bottom of page */
+}
+
 .front-job-op {
-  color: blue;
-  /* needs alignment to bottom left of page */
+  display: flex;
+  justify-content: left;
 }
 
 .front-corp-part {
-  color: red;
-  /* needs alignment to bottom right of page */
+  display: flex;
+  justify-content: right;
 }
