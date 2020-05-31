@@ -79,11 +79,11 @@ body {
 }
 
 .front-job-op {
-  display: flex;
+  display: left;
   justify-content: left;
 }
 
 .front-corp-part {
-  display: flex;
+  display: right;
   justify-content: right;
 }
