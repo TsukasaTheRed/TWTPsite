@@ -75,15 +75,29 @@ body {
 ------------------------------------- */
 .front-page-info {
   display: flex;
-  /* needs alignment to bottom of page */
+  justify-content: space-between;
+  align-items: flex-end;
 }
 
-.front-job-op {
+/* .front-job-op {
   display: left;
   justify-content: left;
 }
 
 .front-corp-part {
-  display: right;
+  display: flex;
+  justify-content: right;
+}  */
+
+.front-page-pics {
+  display: flex;
+  align-items: center;
+}
+
+.front-pic-left {
+  justify-content: left;
+}
+
+.front-pic-right {
   justify-content: right;
 }
