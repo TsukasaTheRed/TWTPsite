@@ -23,12 +23,17 @@ namespace Code.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult TheTeam()
         {
             return View();
         }
 
         public IActionResult AboutUs()
+        {
+            return View();
+        }
+
+        public IActionResult MissionState()
         {
             return View();
         }

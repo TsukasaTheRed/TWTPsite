@@ -20551,18 +20551,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Tsuka\\Desktop\\WozU\\projects\\TWTPsite\\TWTPsite\\Code\\Views\\Home\\MissionState.cshtml",
+      "TargetPath": "Views\\Home\\MissionState.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Tsuka\\Desktop\\WozU\\projects\\TWTPsite\\TWTPsite\\Code\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Tsuka\\Desktop\\WozU\\projects\\TWTPsite\\TWTPsite\\Code\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FilePath": "c:\\Users\\Tsuka\\Desktop\\WozU\\projects\\TWTPsite\\TWTPsite\\Code\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Tsuka\\Desktop\\WozU\\projects\\TWTPsite\\TWTPsite\\Code\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\Tsuka\\Desktop\\WozU\\projects\\TWTPsite\\TWTPsite\\Code\\Views\\Home\\TheTeam.cshtml",
+      "TargetPath": "Views\\Home\\TheTeam.cshtml",
       "FileKind": "mvc"
     }
   ],
