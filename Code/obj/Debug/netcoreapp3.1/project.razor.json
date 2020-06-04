@@ -20521,6 +20521,11 @@
   "RootNamespace": "Code",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\Tsuka\\Desktop\\WozU\\projects\\TWTPsite\\TWTPsite\\Code\\Views\\Home\\AboutUs.cshtml",
+      "TargetPath": "Views\\Home\\AboutUs.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Tsuka\\Desktop\\WozU\\projects\\TWTPsite\\TWTPsite\\Code\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
