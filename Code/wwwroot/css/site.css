@@ -92,6 +92,19 @@ body {
 
 /* Connor's Styling
 --------------------- */
+#workText {
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+#missionHead {
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
 
 
 /* Tommy's Styling
