@@ -38,3 +38,43 @@ C:\Users\Tsuka\Desktop\WozU\projects\TWTPsite\TWTPsite\Code\obj\Debug\netcoreapp
 C:\Users\Tsuka\Desktop\WozU\projects\TWTPsite\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Home\AboutUs.cshtml.g.cs
 C:\Users\Tsuka\Desktop\WozU\projects\TWTPsite\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Home\MissionState.cshtml.g.cs
 C:\Users\Tsuka\Desktop\WozU\projects\TWTPsite\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Home\TheTeam.cshtml.g.cs
+C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\bin\Debug\netcoreapp3.1\Code.exe
+C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\bin\Debug\netcoreapp3.1\Code.deps.json
+C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\bin\Debug\netcoreapp3.1\Code.runtimeconfig.json
+C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\bin\Debug\netcoreapp3.1\Code.runtimeconfig.dev.json
+C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\bin\Debug\netcoreapp3.1\Code.dll
+C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\bin\Debug\netcoreapp3.1\Code.pdb
+C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\bin\Debug\netcoreapp3.1\Code.Views.dll
+C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\bin\Debug\netcoreapp3.1\Code.Views.pdb
+C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\obj\Debug\netcoreapp3.1\Code.csprojAssemblyReference.cache
+C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\obj\Debug\netcoreapp3.1\Code.AssemblyInfoInputs.cache
+C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\obj\Debug\netcoreapp3.1\Code.AssemblyInfo.cs
+C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\obj\Debug\netcoreapp3.1\Code.csproj.CoreCompileInputs.cache
+C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\obj\Debug\netcoreapp3.1\Code.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\obj\Debug\netcoreapp3.1\Code.RazorAssemblyInfo.cache
+C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\obj\Debug\netcoreapp3.1\Code.RazorAssemblyInfo.cs
+C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\obj\Debug\netcoreapp3.1\Code.TagHelpers.input.cache
+C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\obj\Debug\netcoreapp3.1\Code.TagHelpers.output.cache
+C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\obj\Debug\netcoreapp3.1\Code.RazorCoreGenerate.cache
+C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Home\AboutUs.cshtml.g.cs
+C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Home\MissionState.cshtml.g.cs
+C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Home\TheTeam.cshtml.g.cs
+C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\obj\Debug\netcoreapp3.1\Code.RazorTargetAssemblyInfo.cache
+C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\obj\Debug\netcoreapp3.1\Code.RazorTargetAssemblyInfo.cs
+C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\obj\Debug\netcoreapp3.1\Code.Views.pdb
+C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\obj\Debug\netcoreapp3.1\staticwebassets\Code.StaticWebAssets.Manifest.cache
+C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\obj\Debug\netcoreapp3.1\staticwebassets\Code.StaticWebAssets.xml
+C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\obj\Debug\netcoreapp3.1\Code.dll
+C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\obj\Debug\netcoreapp3.1\Code.pdb
+C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\obj\Debug\netcoreapp3.1\Code.genruntimeconfig.cache
+C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\obj\Debug\netcoreapp3.1\Code.csproj.CopyComplete
