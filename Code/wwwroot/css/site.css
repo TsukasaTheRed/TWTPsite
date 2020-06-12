@@ -353,6 +353,22 @@ body {
   flex-direction: row;
 }
 
+/*Styling for InternshipOpportunity.cshtml (partners version) */
+
+#interTitle {
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+#interPar {
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
 
 /* Tommy's Styling
 -------------------- */
