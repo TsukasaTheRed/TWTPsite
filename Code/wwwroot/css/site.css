@@ -92,6 +92,8 @@ body {
 
 /* Connor's Styling
 --------------------- */
+
+/*Styling for MissionState.cshtml */
 #workText {
   text-align: center;
   white-space: normal;
@@ -106,6 +108,7 @@ body {
   flex-direction: row;
 }
 
+/*Styling for ProDevProg.cshtml */
 #proHead {
   text-align: center;
   white-space: normal;
@@ -140,6 +143,29 @@ body {
   flex-direction: row;
   font-weight: 600;
 }
+
+/*Styling for GroupStudy.cshtml */
+#groupHead {
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+#groupOne {
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+#groupList {
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
 
 
 /* Tommy's Styling
