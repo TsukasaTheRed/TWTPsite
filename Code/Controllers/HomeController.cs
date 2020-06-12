@@ -48,11 +48,6 @@ namespace Code.Controllers
             return View();
         }
 
-        public IActionResult InternProg()
-        {
-            return View();
-        }
-
         public IActionResult PaOMP()
         {
             return View();
