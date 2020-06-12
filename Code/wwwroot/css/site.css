@@ -190,7 +190,7 @@ body {
   flex-direction: row;
 }
 
-h3{
+#proEmpSubHeads{
   text-align: left;
   flex-wrap: wrap;
   flex-direction: row;
@@ -241,7 +241,7 @@ h3{
 }
 
 /*Styling for PersDevProg.cshtml (employer version) */
-h1{
+#perEmpHead{
   text-align: center;
   white-space: normal;
   flex-wrap: wrap;
@@ -304,6 +304,29 @@ h1{
   flex-direction: row;
   font-weight: 600;
   font-family: 'Limelight'
+}
+
+/*Styling for AdditionalSupp.cshtml */
+#addHead{
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+#addSupList {
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+  list-style-position: inside
+}
+
+#addJoinUs{
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
 }
 
 /* Tommy's Styling
