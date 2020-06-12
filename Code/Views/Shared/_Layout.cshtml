@@ -42,10 +42,10 @@
                         Services & Support 
                     </button> 
                     <div class="dropdown-menu" aria-labelledby="dropdownMenuButton"> 
-                        <a class="dropdown-item" href="#">Personal Mentorship</a> 
-                        <a class="dropdown-item" href="#">Online Mentorship</a> 
-                        <a class="dropdown-item" href="#">Group Study Sessions</a> 
-                        <a class="dropdown-item" href="#">Additional Support</a> 
+                        <a class="dropdown-item" asp-controller="ServSupp" asp-action="PersonalMent">Personal Mentorship</a> 
+                        <a class="dropdown-item" asp-controller="ServSupp" asp-action="OnlineMent">Online Mentorship</a> 
+                        <a class="dropdown-item" asp-controller="ServSupp" asp-action="GroupStudy">Group Study Sessions</a> 
+                        <a class="dropdown-item" asp-controller="ServSupp" asp-action="AdditionalSupp">Additional Support</a> 
                     </div> 
                 </div>
                 <div class="dropdown"> 
@@ -53,10 +53,10 @@
                         Employer Page 
                     </button> 
                     <div class="dropdown-menu" aria-labelledby="dropdownMenuButton"> 
-                        <a class="dropdown-item" href="#">About us</a> 
-                        <a class="dropdown-item" href="#">Online Program</a> 
-                        <a class="dropdown-item" href="#">Prof Dev Program</a> 
-                        <a class="dropdown-item" href="#">Personal Dev Program</a> 
+                        <a class="dropdown-item" asp-controller="Employer" asp-action="AboutUs">About us</a> 
+                        <a class="dropdown-item" asp-controller="Employer" asp-action="OnlineProg">Online Program</a> 
+                        <a class="dropdown-item" asp-controller="Employer" asp-action="ProDevProg">Prof Dev Program</a> 
+                        <a class="dropdown-item" asp-controller="Employer" asp-action="PersDevProg">Personal Dev Program</a> 
                     </div> 
                 </div>
                 <div class="dropdown"> 
@@ -64,9 +64,9 @@
                         Partners 
                     </button> 
                     <div class="dropdown-menu" aria-labelledby="dropdownMenuButton"> 
-                        <a class="dropdown-item" href="#">Our Partners</a> 
-                        <a class="dropdown-item" href="#">Internship Opp</a> 
-                        <a class="dropdown-item" href="#">Join us!</a> 
+                        <a class="dropdown-item" asp-controller="Partners" asp-action="OurPartners">Our Partners</a> 
+                        <a class="dropdown-item" asp-controller="Partners" asp-action="InternOpportunity">Internship Opp</a> 
+                        <a class="dropdown-item" asp-controller="Partners" asp-action="JoinUs">Join us!</a> 
                     </div>
                 </div>
             </div>
