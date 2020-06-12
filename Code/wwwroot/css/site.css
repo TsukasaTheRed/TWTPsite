@@ -106,6 +106,41 @@ body {
   flex-direction: row;
 }
 
+#proHead {
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+#proOne {
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+#proTwo {
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+  font-weight: 600;
+}
+
+#proList {
+  flex-wrap: wrap;
+  flex-direction: row;
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+#proTopic {
+  flex-wrap: wrap;
+  flex-direction: row;
+  font-weight: 600;
+}
+
 
 /* Tommy's Styling
 -------------------- */
