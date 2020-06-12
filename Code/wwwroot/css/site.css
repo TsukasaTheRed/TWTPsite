@@ -369,6 +369,42 @@ body {
   flex-direction: row;
 }
 
+/*Styling for OnlineProg.cshtml (employer version) */
+
+#onlineEmpTitle{
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+#onlineEmpPar {
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+#onlineHeadList {
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+  text-decoration: underline;
+}
+
+#onlineList {
+  text-align: left;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+  text-decoration: underline;
+}
+
+#onlineListHigh {
+  background-color: green
+}
+
 
 /* Tommy's Styling
 -------------------- */
