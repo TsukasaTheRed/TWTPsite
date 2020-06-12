@@ -166,7 +166,79 @@ body {
   flex-direction: row;
 }
 
+/*Styling for ProDevProg.cshtml (employer version) */
 
+#proEmpTitle {
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+#proEmpOne {
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+
+#proEmpTwo {
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+h3{
+  text-align: left;
+  flex-wrap: wrap;
+  flex-direction: row;
+  font-weight: bold;
+  font-family: 'Limelight'
+}
+
+#proEmpPar {
+  text-align: left;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+  text-indent: 50px;
+  padding-left: 50px;
+}
+
+#proEmpTopic {
+  text-align: left;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+#proEmpTopicList {
+  text-align: left;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+#proEmpResList {
+  padding-left: 50px;
+  text-align: left;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+#proEmpIntListHead {
+  padding-left: 50px;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+#proEmpIntList {
+  padding-left: 100px;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
 
 /* Tommy's Styling
 -------------------- */
