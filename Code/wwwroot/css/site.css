@@ -164,6 +164,7 @@ body {
   white-space: normal;
   flex-wrap: wrap;
   flex-direction: row;
+  list-style-position: inside
 }
 
 /*Styling for ProDevProg.cshtml (employer version) */
@@ -328,6 +329,30 @@ body {
   flex-wrap: wrap;
   flex-direction: row;
 }
+
+/*Styling for AboutUs.cshtml (employer version) */
+#aboutEmpTitle {
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+#aboutEmpHead {
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+
+#aboutEmpPar {
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
 
 /* Tommy's Styling
 -------------------- */
