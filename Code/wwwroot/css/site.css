@@ -240,6 +240,72 @@ h3{
   flex-direction: row;
 }
 
+/*Styling for PersDevProg.cshtml (employer version) */
+h1{
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+#perEmpOne {
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+  font-size: 15px;
+}
+
+#perEmpPar {
+  text-align: left;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+  text-indent: 50px;
+  padding-left: 50px;
+}
+
+
+#perEmpTopicsList {
+  padding-left: 100px;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+#perEmpEnhanceList {
+  padding-left: 100px;
+  flex-wrap: wrap;
+  flex-direction: row;
+  text-decoration: underline;
+}
+
+#perEmpSubHeads{
+  flex-wrap: wrap;
+  flex-direction: row;
+  font-weight: 700;
+}
+
+#perEmpEnhanceHead{
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+#perEmpEnhanceSubHead{
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+#perEmpHealthHead {
+  flex-wrap: wrap;
+  flex-direction: row;
+  font-weight: 600;
+  font-family: 'Limelight'
+}
+
 /* Tommy's Styling
 -------------------- */
 
