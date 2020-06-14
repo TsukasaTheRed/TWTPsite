@@ -33,11 +33,6 @@ namespace Code.Controllers
             return View();
         }
 
-        public IActionResult PaOMP()
-        {
-            return View();
-        }
-
         public IActionResult OnlineProg()
         {
             return View();
