@@ -38,6 +38,11 @@ namespace Code.Controllers
             return View();
         }
 
+        public IActionResult OnlineProg()
+        {
+            return View();
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
