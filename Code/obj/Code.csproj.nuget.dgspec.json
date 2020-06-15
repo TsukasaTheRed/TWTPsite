@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tsuka\\Desktop\\WozU\\projects\\TWTPsite\\TWTPsite\\Code\\Code.csproj": {}
+    "C:\\Users\\Darren\\Desktop\\Local Repos\\TWTPsite\\Code\\Code.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tsuka\\Desktop\\WozU\\projects\\TWTPsite\\TWTPsite\\Code\\Code.csproj": {
+    "C:\\Users\\Darren\\Desktop\\Local Repos\\TWTPsite\\Code\\Code.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tsuka\\Desktop\\WozU\\projects\\TWTPsite\\TWTPsite\\Code\\Code.csproj",
+        "projectUniqueName": "C:\\Users\\Darren\\Desktop\\Local Repos\\TWTPsite\\Code\\Code.csproj",
         "projectName": "Code",
-        "projectPath": "C:\\Users\\Tsuka\\Desktop\\WozU\\projects\\TWTPsite\\TWTPsite\\Code\\Code.csproj",
-        "packagesPath": "C:\\Users\\Tsuka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tsuka\\Desktop\\WozU\\projects\\TWTPsite\\TWTPsite\\Code\\obj\\",
+        "projectPath": "C:\\Users\\Darren\\Desktop\\Local Repos\\TWTPsite\\Code\\Code.csproj",
+        "packagesPath": "C:\\Users\\Darren\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Darren\\Desktop\\Local Repos\\TWTPsite\\Code\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Tsuka\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Darren\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
