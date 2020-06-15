@@ -90,8 +90,324 @@ body {
   align-items: flex-end;
 }
 
+.centerer4 {
+  text-align: center;
+}
+
 /* Connor's Styling
 --------------------- */
+
+/*Styling for MissionState.cshtml */
+#workText {
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+#missionHead {
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+/*Styling for ProDevProg.cshtml */
+#proHead {
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+#proOne {
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+#proTwo {
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+  font-weight: 600;
+}
+
+#proList {
+  flex-wrap: wrap;
+  flex-direction: row;
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+#proTopic {
+  flex-wrap: wrap;
+  flex-direction: row;
+  font-weight: 600;
+}
+
+/*Styling for GroupStudy.cshtml */
+#groupHead {
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+#groupOne {
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+#groupList {
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+  list-style-position: inside
+}
+
+/*Styling for ProDevProg.cshtml (employer version) */
+
+#proEmpTitle {
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+#proEmpOne {
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+
+#proEmpTwo {
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+#proEmpSubHeads{
+  text-align: left;
+  flex-wrap: wrap;
+  flex-direction: row;
+  font-weight: bold;
+  font-family: 'Limelight'
+}
+
+#proEmpPar {
+  text-align: left;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+  text-indent: 50px;
+  padding-left: 50px;
+}
+
+#proEmpTopic {
+  text-align: left;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+#proEmpTopicList {
+  text-align: left;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+#proEmpResList {
+  padding-left: 50px;
+  text-align: left;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+#proEmpIntListHead {
+  padding-left: 50px;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+#proEmpIntList {
+  padding-left: 100px;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+/*Styling for PersDevProg.cshtml (employer version) */
+#perEmpHead{
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+#perEmpOne {
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+  font-size: 15px;
+}
+
+#perEmpPar {
+  text-align: left;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+  text-indent: 50px;
+  padding-left: 50px;
+}
+
+
+#perEmpTopicsList {
+  padding-left: 100px;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+#perEmpEnhanceList {
+  padding-left: 100px;
+  flex-wrap: wrap;
+  flex-direction: row;
+  text-decoration: underline;
+}
+
+#perEmpSubHeads{
+  flex-wrap: wrap;
+  flex-direction: row;
+  font-weight: 700;
+}
+
+#perEmpEnhanceHead{
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+#perEmpEnhanceSubHead{
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+#perEmpHealthHead {
+  flex-wrap: wrap;
+  flex-direction: row;
+  font-weight: 600;
+  font-family: 'Limelight'
+}
+
+/*Styling for AdditionalSupp.cshtml */
+#addHead{
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+#addSupList {
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+  list-style-position: inside
+}
+
+#addJoinUs{
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+/*Styling for AboutUs.cshtml (employer version) */
+#aboutEmpTitle {
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+#aboutEmpHead {
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+
+#aboutEmpPar {
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+/*Styling for InternshipOpportunity.cshtml (partners version) */
+
+#interTitle {
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+#interPar {
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+/*Styling for OnlineProg.cshtml (employer version) */
+
+#onlineEmpTitle{
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+#onlineEmpPar {
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+#onlineHeadList {
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+  text-decoration: underline;
+}
+
+#onlineList {
+  text-align: left;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+  text-decoration: underline;
+}
+
+#onlineListHigh {
+  background-color: green
+}
 
 
 /* Tommy's Styling
@@ -100,3 +416,7 @@ body {
 
 /* Nate's Styling
 ------------------- */
+.about-us {
+  text-align: center;
+  
+}
