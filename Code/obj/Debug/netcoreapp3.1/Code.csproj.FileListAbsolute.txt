@@ -36,6 +36,7 @@ C:\Users\Tsuka\Desktop\WozU\projects\TWTPsite\TWTPsite\Code\obj\Debug\netcoreapp
 C:\Users\Tsuka\Desktop\WozU\projects\TWTPsite\TWTPsite\Code\obj\Debug\netcoreapp3.1\Code.csproj.CopyComplete
 C:\Users\Tsuka\Desktop\WozU\projects\TWTPsite\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
 C:\Users\Tsuka\Desktop\WozU\projects\TWTPsite\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Home\AboutUs.cshtml.g.cs
+<<<<<<< Updated upstream
 C:\Users\Tsuka\Desktop\WozU\projects\TWTPsite\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Home\MissionState.cshtml.g.cs
 C:\Users\Tsuka\Desktop\WozU\projects\TWTPsite\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Home\TheTeam.cshtml.g.cs
 C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\bin\Debug\netcoreapp3.1\appsettings.Development.json
@@ -92,4 +93,65 @@ C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\
 C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Programs\ProDevProg.cshtml.g.cs
 C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Programs\InternProg.cshtml.g.cs
 C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Programs\OnlineProg.cshtml.g.cs
+<<<<<<< Updated upstream
 C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Programs\PersDevProg.cshtml.g.cs
+=======
+=======
+C:\Users\17168\Desktop\TWTPsite\Code\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\17168\Desktop\TWTPsite\Code\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\17168\Desktop\TWTPsite\Code\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\17168\Desktop\TWTPsite\Code\bin\Debug\netcoreapp3.1\Code.exe
+C:\Users\17168\Desktop\TWTPsite\Code\bin\Debug\netcoreapp3.1\Code.deps.json
+C:\Users\17168\Desktop\TWTPsite\Code\bin\Debug\netcoreapp3.1\Code.runtimeconfig.json
+C:\Users\17168\Desktop\TWTPsite\Code\bin\Debug\netcoreapp3.1\Code.runtimeconfig.dev.json
+C:\Users\17168\Desktop\TWTPsite\Code\bin\Debug\netcoreapp3.1\Code.dll
+C:\Users\17168\Desktop\TWTPsite\Code\bin\Debug\netcoreapp3.1\Code.pdb
+C:\Users\17168\Desktop\TWTPsite\Code\bin\Debug\netcoreapp3.1\Code.Views.dll
+C:\Users\17168\Desktop\TWTPsite\Code\bin\Debug\netcoreapp3.1\Code.Views.pdb
+C:\Users\17168\Desktop\TWTPsite\Code\obj\Debug\netcoreapp3.1\Code.csprojAssemblyReference.cache
+C:\Users\17168\Desktop\TWTPsite\Code\obj\Debug\netcoreapp3.1\Code.csproj.CoreCompileInputs.cache
+C:\Users\17168\Desktop\TWTPsite\Code\obj\Debug\netcoreapp3.1\Code.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\17168\Desktop\TWTPsite\Code\obj\Debug\netcoreapp3.1\Code.RazorAssemblyInfo.cache
+C:\Users\17168\Desktop\TWTPsite\Code\obj\Debug\netcoreapp3.1\Code.RazorAssemblyInfo.cs
+C:\Users\17168\Desktop\TWTPsite\Code\obj\Debug\netcoreapp3.1\Code.AssemblyInfoInputs.cache
+C:\Users\17168\Desktop\TWTPsite\Code\obj\Debug\netcoreapp3.1\Code.AssemblyInfo.cs
+C:\Users\17168\Desktop\TWTPsite\Code\obj\Debug\netcoreapp3.1\Code.TagHelpers.input.cache
+C:\Users\17168\Desktop\TWTPsite\Code\obj\Debug\netcoreapp3.1\Code.TagHelpers.output.cache
+C:\Users\17168\Desktop\TWTPsite\Code\obj\Debug\netcoreapp3.1\Code.RazorCoreGenerate.cache
+C:\Users\17168\Desktop\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Home\AboutUs.cshtml.g.cs
+C:\Users\17168\Desktop\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\17168\Desktop\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\17168\Desktop\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\17168\Desktop\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\17168\Desktop\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\17168\Desktop\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\17168\Desktop\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\17168\Desktop\TWTPsite\Code\obj\Debug\netcoreapp3.1\Code.RazorTargetAssemblyInfo.cache
+C:\Users\17168\Desktop\TWTPsite\Code\obj\Debug\netcoreapp3.1\Code.RazorTargetAssemblyInfo.cs
+C:\Users\17168\Desktop\TWTPsite\Code\obj\Debug\netcoreapp3.1\Code.Views.pdb
+C:\Users\17168\Desktop\TWTPsite\Code\obj\Debug\netcoreapp3.1\staticwebassets\Code.StaticWebAssets.Manifest.cache
+C:\Users\17168\Desktop\TWTPsite\Code\obj\Debug\netcoreapp3.1\staticwebassets\Code.StaticWebAssets.xml
+C:\Users\17168\Desktop\TWTPsite\Code\obj\Debug\netcoreapp3.1\Code.dll
+C:\Users\17168\Desktop\TWTPsite\Code\obj\Debug\netcoreapp3.1\Code.pdb
+C:\Users\17168\Desktop\TWTPsite\Code\obj\Debug\netcoreapp3.1\Code.genruntimeconfig.cache
+C:\Users\17168\Desktop\TWTPsite\Code\obj\Debug\netcoreapp3.1\Code.csproj.CopyComplete
+>>>>>>> Stashed changes
+C:\Users\17168\Desktop\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Home\MissionState.cshtml.g.cs
+C:\Users\17168\Desktop\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Home\TheTeam.cshtml.g.cs
+C:\Users\17168\Desktop\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Employer\AboutUs.cshtml.g.cs
+C:\Users\17168\Desktop\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Employer\OnlineProg.cshtml.g.cs
+C:\Users\17168\Desktop\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Employer\PersDevProg.cshtml.g.cs
+C:\Users\17168\Desktop\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Employer\ProDevProg.cshtml.g.cs
+C:\Users\17168\Desktop\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Home\PaOMP.cshtml.g.cs
+C:\Users\17168\Desktop\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Home\PersDevProg.cshtml.g.cs
+C:\Users\17168\Desktop\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Partners\InternOpportunity.cshtml.g.cs
+C:\Users\17168\Desktop\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Partners\JoinUs.cshtml.g.cs
+C:\Users\17168\Desktop\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Partners\OurPartners.cshtml.g.cs
+C:\Users\17168\Desktop\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Programs\InternProg.cshtml.g.cs
+C:\Users\17168\Desktop\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Programs\OnlineProg.cshtml.g.cs
+C:\Users\17168\Desktop\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Programs\ProDevProg.cshtml.g.cs
+C:\Users\17168\Desktop\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\ServSupp\AdditionalSupp.cshtml.g.cs
+C:\Users\17168\Desktop\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\ServSupp\GroupStudy.cshtml.g.cs
+C:\Users\17168\Desktop\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\ServSupp\OnlineMent.cshtml.g.cs
+C:\Users\17168\Desktop\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\ServSupp\PersonalMent.cshtml.g.cs
+>>>>>>> Stashed changes

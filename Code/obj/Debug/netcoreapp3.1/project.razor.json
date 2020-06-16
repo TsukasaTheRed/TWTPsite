@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\Darren\\Desktop\\Local Repos\\TWTPsite\\Code\\Code.csproj",
+  "FilePath": "c:\\Users\\17168\\Desktop\\TWTPsite\\Code\\Code.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -20521,128 +20521,128 @@
   "RootNamespace": "Code",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\Darren\\Desktop\\Local Repos\\TWTPsite\\Code\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Darren\\Desktop\\Local Repos\\TWTPsite\\Code\\Views\\ServSupp\\GroupStudy.cshtml",
-      "TargetPath": "Views\\ServSupp\\GroupStudy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Darren\\Desktop\\Local Repos\\TWTPsite\\Code\\Views\\Programs\\InternProg.cshtml",
+      "FilePath": "c:\\Users\\17168\\Desktop\\TWTPsite\\Code\\Views\\Programs\\InternProg.cshtml",
       "TargetPath": "Views\\Programs\\InternProg.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Darren\\Desktop\\Local Repos\\TWTPsite\\Code\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Darren\\Desktop\\Local Repos\\TWTPsite\\Code\\Views\\Programs\\PersDevProg.cshtml",
-      "TargetPath": "Views\\Programs\\PersDevProg.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Darren\\Desktop\\Local Repos\\TWTPsite\\Code\\Views\\Programs\\ProDevProg.cshtml",
+      "FilePath": "c:\\Users\\17168\\Desktop\\TWTPsite\\Code\\Views\\Programs\\ProDevProg.cshtml",
       "TargetPath": "Views\\Programs\\ProDevProg.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Darren\\Desktop\\Local Repos\\TWTPsite\\Code\\Views\\ServSupp\\OnlineMent.cshtml",
-      "TargetPath": "Views\\ServSupp\\OnlineMent.cshtml",
+      "FilePath": "c:\\Users\\17168\\Desktop\\TWTPsite\\Code\\Views\\Employer\\AboutUs.cshtml",
+      "TargetPath": "Views\\Employer\\AboutUs.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Darren\\Desktop\\Local Repos\\TWTPsite\\Code\\Views\\Home\\AboutUs.cshtml",
-      "TargetPath": "Views\\Home\\AboutUs.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Darren\\Desktop\\Local Repos\\TWTPsite\\Code\\Views\\Partners\\JoinUs.cshtml",
-      "TargetPath": "Views\\Partners\\JoinUs.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Darren\\Desktop\\Local Repos\\TWTPsite\\Code\\Views\\Employer\\OnlineProg.cshtml",
+      "FilePath": "c:\\Users\\17168\\Desktop\\TWTPsite\\Code\\Views\\Employer\\OnlineProg.cshtml",
       "TargetPath": "Views\\Employer\\OnlineProg.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Darren\\Desktop\\Local Repos\\TWTPsite\\Code\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Darren\\Desktop\\Local Repos\\TWTPsite\\Code\\Views\\ServSupp\\PersonalMent.cshtml",
-      "TargetPath": "Views\\ServSupp\\PersonalMent.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Darren\\Desktop\\Local Repos\\TWTPsite\\Code\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Darren\\Desktop\\Local Repos\\TWTPsite\\Code\\Views\\Partners\\OurPartners.cshtml",
-      "TargetPath": "Views\\Partners\\OurPartners.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Darren\\Desktop\\Local Repos\\TWTPsite\\Code\\Views\\Home\\TheTeam.cshtml",
-      "TargetPath": "Views\\Home\\TheTeam.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Darren\\Desktop\\Local Repos\\TWTPsite\\Code\\Views\\Employer\\ProDevProg.cshtml",
+      "FilePath": "c:\\Users\\17168\\Desktop\\TWTPsite\\Code\\Views\\Employer\\ProDevProg.cshtml",
       "TargetPath": "Views\\Employer\\ProDevProg.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Darren\\Desktop\\Local Repos\\TWTPsite\\Code\\Views\\Employer\\PersDevProg.cshtml",
-      "TargetPath": "Views\\Employer\\PersDevProg.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Darren\\Desktop\\Local Repos\\TWTPsite\\Code\\Views\\Partners\\InternOpportunity.cshtml",
-      "TargetPath": "Views\\Partners\\InternOpportunity.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Darren\\Desktop\\Local Repos\\TWTPsite\\Code\\Views\\Shared\\_CookieConsentPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_CookieConsentPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Darren\\Desktop\\Local Repos\\TWTPsite\\Code\\Views\\Home\\MissionState.cshtml",
-      "TargetPath": "Views\\Home\\MissionState.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Darren\\Desktop\\Local Repos\\TWTPsite\\Code\\Views\\Programs\\OnlineProg.cshtml",
+      "FilePath": "c:\\Users\\17168\\Desktop\\TWTPsite\\Code\\Views\\Programs\\OnlineProg.cshtml",
       "TargetPath": "Views\\Programs\\OnlineProg.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Darren\\Desktop\\Local Repos\\TWTPsite\\Code\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Users\\17168\\Desktop\\TWTPsite\\Code\\Views\\ServSupp\\GroupStudy.cshtml",
+      "TargetPath": "Views\\ServSupp\\GroupStudy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Darren\\Desktop\\Local Repos\\TWTPsite\\Code\\Views\\ServSupp\\AdditionalSupp.cshtml",
+      "FilePath": "c:\\Users\\17168\\Desktop\\TWTPsite\\Code\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\17168\\Desktop\\TWTPsite\\Code\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\17168\\Desktop\\TWTPsite\\Code\\Views\\ServSupp\\AdditionalSupp.cshtml",
       "TargetPath": "Views\\ServSupp\\AdditionalSupp.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Darren\\Desktop\\Local Repos\\TWTPsite\\Code\\Views\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\17168\\Desktop\\TWTPsite\\Code\\Views\\Partners\\JoinUs.cshtml",
+      "TargetPath": "Views\\Partners\\JoinUs.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\17168\\Desktop\\TWTPsite\\Code\\Views\\Employer\\PersDevProg.cshtml",
+      "TargetPath": "Views\\Employer\\PersDevProg.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\17168\\Desktop\\TWTPsite\\Code\\Views\\Partners\\InternOpportunity.cshtml",
+      "TargetPath": "Views\\Partners\\InternOpportunity.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\17168\\Desktop\\TWTPsite\\Code\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\17168\\Desktop\\TWTPsite\\Code\\Views\\Home\\TheTeam.cshtml",
+      "TargetPath": "Views\\Home\\TheTeam.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\17168\\Desktop\\TWTPsite\\Code\\Views\\ServSupp\\PersonalMent.cshtml",
+      "TargetPath": "Views\\ServSupp\\PersonalMent.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\17168\\Desktop\\TWTPsite\\Code\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Darren\\Desktop\\Local Repos\\TWTPsite\\Code\\Views\\Employer\\AboutUs.cshtml",
-      "TargetPath": "Views\\Employer\\AboutUs.cshtml",
+      "FilePath": "c:\\Users\\17168\\Desktop\\TWTPsite\\Code\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\17168\\Desktop\\TWTPsite\\Code\\Views\\Shared\\_CookieConsentPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_CookieConsentPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\17168\\Desktop\\TWTPsite\\Code\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\17168\\Desktop\\TWTPsite\\Code\\Views\\Home\\MissionState.cshtml",
+      "TargetPath": "Views\\Home\\MissionState.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\17168\\Desktop\\TWTPsite\\Code\\Views\\Programs\\PersDevProg.cshtml",
+      "TargetPath": "Views\\Programs\\PersDevProg.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\17168\\Desktop\\TWTPsite\\Code\\Views\\Partners\\OurPartners.cshtml",
+      "TargetPath": "Views\\Partners\\OurPartners.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\17168\\Desktop\\TWTPsite\\Code\\Views\\ServSupp\\OnlineMent.cshtml",
+      "TargetPath": "Views\\ServSupp\\OnlineMent.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\17168\\Desktop\\TWTPsite\\Code\\Views\\Home\\AboutUs.cshtml",
+      "TargetPath": "Views\\Home\\AboutUs.cshtml",
       "FileKind": "mvc"
     }
   ],

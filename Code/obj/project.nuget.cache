@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "LHE5MNswuG2VMZjFnMMg9ihC0pcfVd5NPzfHeyGgoqJKNTbD+pzJRcqNrAY+W2tjQH4GeVDal29JFJUBQnwnhQ==",
+  "dgSpecHash": "obGNltd/jK4UqhXkRXq35rQ8n5wAI7lDZ96pULiQACCU5HiLOntaeW9N0ompWNZ5UfQluLLnQG3ViG9PPEVq+g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Darren\\Desktop\\Local Repos\\TWTPsite\\Code\\Code.csproj",
+  "projectFilePath": "C:\\Users\\17168\\Desktop\\TWTPsite\\Code\\Code.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\17168\\Desktop\\TWTPsite\\Code\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
