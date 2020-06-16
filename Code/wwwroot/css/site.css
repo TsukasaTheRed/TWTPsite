@@ -110,6 +110,7 @@ body {
   white-space: normal;
   flex-wrap: wrap;
   flex-direction: row;
+  font-size: 20px;
 }
 
 #missionHead {
