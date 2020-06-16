@@ -20541,18 +20541,13 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Darren\\Desktop\\Local Repos\\TWTPsite\\Code\\Views\\Home\\PersDevProg.cshtml",
-      "TargetPath": "Views\\Home\\PersDevProg.cshtml",
+      "FilePath": "c:\\Users\\Darren\\Desktop\\Local Repos\\TWTPsite\\Code\\Views\\Programs\\PersDevProg.cshtml",
+      "TargetPath": "Views\\Programs\\PersDevProg.cshtml",
       "FileKind": "mvc"
     },
     {
       "FilePath": "c:\\Users\\Darren\\Desktop\\Local Repos\\TWTPsite\\Code\\Views\\Programs\\ProDevProg.cshtml",
       "TargetPath": "Views\\Programs\\ProDevProg.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Darren\\Desktop\\Local Repos\\TWTPsite\\Code\\Views\\Home\\PaOMP.cshtml",
-      "TargetPath": "Views\\Home\\PaOMP.cshtml",
       "FileKind": "mvc"
     },
     {

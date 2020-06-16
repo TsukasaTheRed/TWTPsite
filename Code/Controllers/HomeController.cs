@@ -38,21 +38,6 @@ namespace Code.Controllers
             return View();
         }
 
-        public IActionResult ProDevProg()
-        {
-            return View();
-        }
-
-        public IActionResult PersDevProg()
-        {
-            return View();
-        }
-
-        public IActionResult PaOMP()
-        {
-            return View();
-        }
-
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

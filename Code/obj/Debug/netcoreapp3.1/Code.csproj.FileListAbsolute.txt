@@ -78,8 +78,6 @@ C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\obj\Debug\netcoreapp3.1\Code.d
 C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\obj\Debug\netcoreapp3.1\Code.pdb
 C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\obj\Debug\netcoreapp3.1\Code.genruntimeconfig.cache
 C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\obj\Debug\netcoreapp3.1\Code.csproj.CopyComplete
-C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Home\PaOMP.cshtml.g.cs
-C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Home\PersDevProg.cshtml.g.cs
 C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Partners\InternOpportunity.cshtml.g.cs
 C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Partners\JoinUs.cshtml.g.cs
 C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Partners\OurPartners.cshtml.g.cs
@@ -94,3 +92,4 @@ C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\
 C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Programs\ProDevProg.cshtml.g.cs
 C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Programs\InternProg.cshtml.g.cs
 C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Programs\OnlineProg.cshtml.g.cs
+C:\Users\Darren\Desktop\Local Repos\TWTPsite\Code\obj\Debug\netcoreapp3.1\Razor\Views\Programs\PersDevProg.cshtml.g.cs
