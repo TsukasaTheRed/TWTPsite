@@ -409,7 +409,28 @@ body {
   background-color: green
 }
 
+/*Styling for PaOMP.cshtml */
+#peronHead {
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
 
+#peronOne {
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+#peronList {
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+  list-style-position: inside
+}
 /* Tommy's Styling
 -------------------- */
 
