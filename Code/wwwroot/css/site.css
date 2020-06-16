@@ -94,6 +94,13 @@ body {
   text-align: center;
 }
 
+.linkBox {
+  display: flex;
+  justify-content: space-around;
+  align-items: stretch;
+  flex-wrap: wrap;
+}
+
 /* Connor's Styling
 --------------------- */
 
