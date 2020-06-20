@@ -90,10 +90,6 @@ body {
   align-items: flex-end;
 }
 
-.centerer4 {
-  text-align: center;
-}
-
 .linkBox {
   display: flex;
   justify-content: space-around;
