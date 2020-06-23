@@ -90,13 +90,6 @@ body {
   align-items: flex-end;
 }
 
-.linkBox {
-  display: flex;
-  justify-content: space-around;
-  align-items: stretch;
-  flex-wrap: wrap;
-}
-
 /* Connor's Styling
 --------------------- */
 
@@ -441,6 +434,14 @@ body {
   white-space: normal;
   flex-wrap: wrap;
   flex-direction: row;
+}
+/*Styling for internProg.cshtml (Programs version) */
+#intProgList{
+  text-align: center;
+  white-space: normal;
+  flex-wrap: wrap;
+  flex-direction: row;
+  list-style-position: inside
 }
 /* Tommy's Styling
 -------------------- */
