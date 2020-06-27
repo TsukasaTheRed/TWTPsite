@@ -403,7 +403,7 @@ body {
 }
 
 #onlineListHigh {
-  background-color: green
+  background-color: gray;
 }
 
 /*Styling for PaOMP.cshtml */
